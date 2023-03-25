@@ -5,10 +5,10 @@
 ![jheni-rodrigues22 GitHub stats](https://github-readme-stats.vercel.app/api?username=MariTerol&theme=dracula&show_icons=true)
 <hr>
 
-## Habilidades em:<br/>
+### Habilidades em:<br/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-## Estudando:
+### Estudando:
 
 <div style="display: inline_block"><br/>
 
