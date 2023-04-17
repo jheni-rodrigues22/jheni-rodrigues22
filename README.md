@@ -1,4 +1,4 @@
-### Oie! Sejam Bem Vindos.
+### Olá! Sejam Bem Vindos.
 
 <hr>
 
