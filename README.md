@@ -26,11 +26,16 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/93b08cf9dfcbf01a8306ebc9b8acd61b0f4fbd9d2fb7cece3d6dbd6a56060c19/68747470733a2f2f692e696d6775722e636f6d2f5943773437446d2e676966"/>
   
+<div align="center">
+
 ![jheni-rodrigues22 GitHub stats](https://github-readme-stats.vercel.app/api?username=jheni-rodrigues22&theme=dracula&show_icons=true)
+
+</div>
+<div align="center">
 <img src="https://camo.githubusercontent.com/0676110a0e8554a864cbaada9c241ecb664cdb4d7f8299788992348ba9cb7cb5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f30454e423548755448306741414141692f74726f7068792d62656b65722e676966"  width="200px" height="250px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheni-rodrigues22&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <img src="https://camo.githubusercontent.com/1dfebc2e9839ae2ab59cea3d5a3cd01eb2aef1728222a394ea756daf5eaad2c6/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" width="200px" height="250px"/>
+</div>
   
 <img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="20" width="100%"/>
   
