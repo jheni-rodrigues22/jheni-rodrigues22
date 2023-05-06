@@ -39,7 +39,11 @@
 </div>
   
 <img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="20" width="100%"/>
-  
+  <div> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 ### Habilidades em:<br/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
