@@ -33,6 +33,10 @@
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
+<a  href="https://www.discord.com/in/yukakoyamagishi24/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/a84a726b-ee78-4722-8abe-1920161fc4b4">
+</a>
+
 </div>
 
 <div align="center" >
@@ -115,3 +119,4 @@
 
 
 <img width=100% src="https://github.com/user-attachments/assets/0dcd87e3-59f6-4328-a4df-14482015644d"/>
+
