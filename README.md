@@ -11,12 +11,6 @@
 <br>
 <br>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheni-rodrigues22&theme=violet-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
 
 <div align="center"> 
 <a href="https://instagram.com/jheni202020" target="_blank">
@@ -31,10 +25,6 @@
 
 <a  href="https://www.linkedin.com/in/jhenifer-rodrigues/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-<a  href="https://www.discord.com/in/yukakoyamagishi24/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/a84a726b-ee78-4722-8abe-1920161fc4b4">
 </a>
 
 </div>
@@ -101,21 +91,6 @@
 <br>
 <br>
 <br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjheni-rodrigues22&s=40&c=bd0052&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
-<br>
-</div>
-
-
-<div align="center">
-<h3> If you support me, click here, recommend me a good book!</h3>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/ae3af855-b9fd-491d-a838-209ae7eeb573">
-</div>
-
-<br>
-<br> 
 
 
 <img width=100% src="https://github.com/user-attachments/assets/0dcd87e3-59f6-4328-a4df-14482015644d"/>
