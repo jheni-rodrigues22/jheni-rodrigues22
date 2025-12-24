@@ -32,19 +32,6 @@
 
 </div>
 
----
-
-## 📊 Main Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jhenifer-rodrigues22&show_icons=true&theme=dark&bg_color=0d1117&title_color=DE1163&icon_color=DE1163&text_color=ffffff&border_color=0d1117" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenifer-rodrigues22&layout=compact&theme=dark&bg_color=0d1117&title_color=DE1163&text_color=ffffff&border_color=0d1117" />
-
-</div>
-
-
 
 ---
 
@@ -90,9 +77,10 @@
 
 <div align="center">
 
-<img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg?username=jhenifer-rodrigues22" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
 
 <br>
 <br>
