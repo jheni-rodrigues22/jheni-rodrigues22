@@ -20,13 +20,13 @@
 ## 🌐 Connect with me
 <div align="center">
 
-<a href="https://instagram.com/jheni202020" target="_blank">
+<a href="https://instagram.com/jheni_202020" target="_blank">
   <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b" height="80">
 </a>
 <a href="mailto:jheni.silvadev@gmail.com">
   <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0" height="80" hspace="8">
 </a>
-<a href="https://www.linkedin.com/in/jhenifer-rodrigues/" target="_blank">
+<a href="https://www.linkedin.com/in/jhenifer-rodriguesdev/" target="_blank">
   <img src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269" height="80">
 </a>
 
